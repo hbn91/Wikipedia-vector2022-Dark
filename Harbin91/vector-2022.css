@@ -1,0 +1,26 @@
+.vector-feature-zebra-design-disabled body {
+background: #111;	
+color: #ccc;
+}
+
+.vector-feature-zebra-design-disabled .mw-page-container {
+background: #222;	
+}
+
+.vector-feature-zebra-design-disabled .vector-header-container {
+	background: #222;
+}
+
+ .vector-feature-zebra-design-disabled .vector-dropdown .vector-dropdown-content,
+ .vector-feature-zebra-design-disabled .vector-dropdown > .vector-menu-content {
+  background-color:#333;
+ }
+ 
+ .vector-feature-zebra-design-disabled #vector-toc-pinned-container .vector-toc::after {
+  background:linear-gradient(rgba(34,34,34,0),#222);
+ }
+ 
+ .vector-toc {
+ 	background:#333;
+ 	color:#ccc;
+ }
